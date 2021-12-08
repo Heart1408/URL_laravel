@@ -1,0 +1,7 @@
+Chạy lệnh php artisan serve để start server
+Chạy ứng dụng tại http://localhost:8000/
+
+Truy cập các đường dẫn:
+/
+/danh-sach-sinh-vien
+/contact
